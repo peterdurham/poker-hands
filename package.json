@@ -5,6 +5,7 @@
   "homepage": "https://peterdurham.github.io/poker-hands/",
   "dependencies": {
     "gh-pages": "^2.0.1",
+    "prop-types": "^15.6.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.5"
@@ -25,5 +26,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "react-testing-library": "^5.3.2"
+  }
 }
