@@ -11,10 +11,10 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/poker-hands/precache-manifest.87be5d2c2ae4bcdce5276ab6eb7db1b2.js"
+  "/poker-hands/precache-manifest.cc99aa7047bdcf16c401f3b1496de744.js"
 );
 
 workbox.clientsClaim();

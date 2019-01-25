@@ -1,9 +1,9 @@
 {
-  "main.css": "/poker-hands/static/css/main.03da47d0.chunk.css",
-  "main.js": "/poker-hands/static/js/main.83e6d7ed.chunk.js",
-  "main.js.map": "/poker-hands/static/js/main.83e6d7ed.chunk.js.map",
-  "static/js/1.a3b7c500.chunk.js": "/poker-hands/static/js/1.a3b7c500.chunk.js",
-  "static/js/1.a3b7c500.chunk.js.map": "/poker-hands/static/js/1.a3b7c500.chunk.js.map",
+  "main.css": "/poker-hands/static/css/main.492d148b.chunk.css",
+  "main.js": "/poker-hands/static/js/main.9051e793.chunk.js",
+  "main.js.map": "/poker-hands/static/js/main.9051e793.chunk.js.map",
+  "static/js/1.f73ea132.chunk.js": "/poker-hands/static/js/1.f73ea132.chunk.js",
+  "static/js/1.f73ea132.chunk.js.map": "/poker-hands/static/js/1.f73ea132.chunk.js.map",
   "runtime~main.js": "/poker-hands/static/js/runtime~main.6a906713.js",
   "runtime~main.js.map": "/poker-hands/static/js/runtime~main.6a906713.js.map",
   "static/media/7H.png": "/poker-hands/static/media/7H.c8475b53.png",
@@ -59,8 +59,8 @@
   "static/media/QS.png": "/poker-hands/static/media/QS.9026849b.png",
   "static/media/KS.png": "/poker-hands/static/media/KS.e8d1a4cf.png",
   "static/media/AS.png": "/poker-hands/static/media/AS.e6a6d2f8.png",
-  "static/css/main.03da47d0.chunk.css.map": "/poker-hands/static/css/main.03da47d0.chunk.css.map",
+  "static/css/main.492d148b.chunk.css.map": "/poker-hands/static/css/main.492d148b.chunk.css.map",
   "index.html": "/poker-hands/index.html",
-  "precache-manifest.87be5d2c2ae4bcdce5276ab6eb7db1b2.js": "/poker-hands/precache-manifest.87be5d2c2ae4bcdce5276ab6eb7db1b2.js",
+  "precache-manifest.cc99aa7047bdcf16c401f3b1496de744.js": "/poker-hands/precache-manifest.cc99aa7047bdcf16c401f3b1496de744.js",
   "service-worker.js": "/poker-hands/service-worker.js"
 }
