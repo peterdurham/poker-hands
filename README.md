@@ -34,5 +34,5 @@ npm start
 
 ## Tools
 
-This project was built using **Create-React-App**
+This project was built using **Create-React-App**  
 This project is hosted on **Github Pages [here](https://peterdurham.github.io/poker-hands/)**
