@@ -5,10 +5,9 @@
   "homepage": "https://peterdurham.github.io/poker-hands/",
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "prop-types": "^15.6.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "react-scripts": "2.0.5"
+    "react-scripts": "^2.1.3"
   },
   "scripts": {
     "start": "react-scripts start",

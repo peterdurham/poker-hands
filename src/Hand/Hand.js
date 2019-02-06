@@ -3,21 +3,20 @@ import PropTypes from "prop-types";
 
 import Card from "../Card/Card.js";
 
-const Hand = props => {
+const Hand = ({ handCards }) => {
   return (
     <div className="hand">
       <div className="hand-card">
-        <Card name={props.hand1} />
+        <Card name={handCards[0].name} />
       </div>
       <div className="hand-card">
-        <Card name={props.hand2} />
+        <Card name={handCards[1].name} />
       </div>
     </div>
   );
 };
 Hand.propTypes = {
-  hand1: PropTypes.string,
-  hand2: PropTypes.string
+  handCards: PropTypes.array.isRequired
 };
 
 export default Hand;
