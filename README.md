@@ -2,7 +2,7 @@
 
 Texas Holdem Poker hand simulator that determines your best hand at each stage of play.
 
-![Poker Hands](http://www.peterdurham.site/images/site-images/projects/poker-hands.png)
+![Poker Hands](http://127.0.0.1:5500/images/site-images/projects/poker-hands-wide.png)
 
 ## Instructions
 
