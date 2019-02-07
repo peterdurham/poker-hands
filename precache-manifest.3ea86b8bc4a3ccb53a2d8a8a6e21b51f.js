@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/poker-hands/static/media/KD.6b5b30c0.png"
   },
   {
-    "revision": "9051e7934195b3915735",
-    "url": "/poker-hands/static/css/main.492d148b.chunk.css"
+    "revision": "e85fce27a2c9fdd37f61",
+    "url": "/poker-hands/static/css/main.b0ccd517.chunk.css"
   },
   {
-    "revision": "f73ea13260f5a81ac303",
-    "url": "/poker-hands/static/js/1.f73ea132.chunk.js"
+    "revision": "83a0d9c0896069bf3c63",
+    "url": "/poker-hands/static/js/1.83a0d9c0.chunk.js"
   },
   {
     "revision": "6a906713715aca82d2fc",
@@ -116,8 +116,8 @@ self.__precacheManifest = [
     "url": "/poker-hands/static/media/QD.6940967d.png"
   },
   {
-    "revision": "9051e7934195b3915735",
-    "url": "/poker-hands/static/js/main.9051e793.chunk.js"
+    "revision": "e85fce27a2c9fdd37f61",
+    "url": "/poker-hands/static/js/main.e85fce27.chunk.js"
   },
   {
     "revision": "f37d608fb18056bc4f83737d633c5cf5",
@@ -228,7 +228,7 @@ self.__precacheManifest = [
     "url": "/poker-hands/static/media/AS.e6a6d2f8.png"
   },
   {
-    "revision": "1e181c5e9571152c3666be74dad4d9e7",
+    "revision": "35c849282a9c8ed15a18758cf6b1ca1a",
     "url": "/poker-hands/index.html"
   }
 ];
